@@ -1,8 +1,24 @@
-# Olá! Desenvolvo aplicações web com IA
+# Olá, sou Sandro Cabelleira
 
-Meu foco é integrar IA generativa a produtos digitais para resolver problemas concretos. Gosto de transformar uma necessidade em uma experiência clara, conectando interface, modelos e serviços em nuvem.
+## Desenvolvimento de aplicações web com IA
+
+Meu foco é transformar necessidades concretas em aplicações web com IA generativa. Nos meus projetos, conecto interface, modelos de IA e serviços em nuvem, com atenção ao fluxo completo de uso do produto.
+
+Busco oportunidades em desenvolvimento web e aplicações com IA.
 
 ## Projetos em destaque
+
+### [Xtreme Dr. X — assistente de instalação com IA](https://github.com/sandrocabelleira1/xtremeDr.X)
+
+Aplicação para apoiar a instalação e o diagnóstico do Quickshifter Xtreme, com chat e análise de fotos e vídeos. Integra autenticação, persistência de dados, créditos e pagamentos.
+
+**Aplicação publicada:** [experimentar o Xtreme Dr. X](https://studio--studio-6575887507-cfd43.us-central1.hosted.app/)
+
+**Tecnologias:** Next.js, React, TypeScript, Genkit, Gemini, Firebase e Stripe.
+
+**Destaques:** integração multimodal, operações protegidas no servidor e implantação no Firebase App Hosting conectado ao GitHub.
+
+[Ver estudo de caso e arquitetura](https://github.com/sandrocabelleira1/xtremeDr.X)
 
 ### [MotoAI Assist — diagnóstico de motocicletas com IA](https://github.com/sandrocabelleira1/motoai-assist-case-study)
 
@@ -10,18 +26,20 @@ Protótipo que organiza marca, modelo e sintomas para apresentar causas prováve
 
 **Tecnologias:** Next.js, React, TypeScript, Genkit, Gemini 2.0 Flash e Zod.
 
-### [Xtreme Dr. X — assistente de instalação com IA](https://github.com/sandrocabelleira1/xtremeDr.X)
+[Ver estudo de caso](https://github.com/sandrocabelleira1/motoai-assist-case-study)
 
-Estudo de caso de um assistente para instalação e diagnóstico do Quickshifter Xtreme, com chat, análise de fotos e vídeos e integração com serviços de produto.
+## Tecnologias utilizadas nos projetos
 
-**Tecnologias:** Next.js, React, TypeScript, Genkit, Gemini, Firebase e Stripe.
+| Área | Tecnologias |
+| --- | --- |
+| Aplicações web | TypeScript, React e Next.js |
+| IA generativa | Gemini, Genkit e validação com Zod |
+| Serviços e dados | Firebase Authentication, Firestore e Firebase Admin |
+| Integrações | Stripe Checkout e webhooks |
+| Interface e publicação | Tailwind CSS e Firebase App Hosting |
 
-> Os repositórios públicos apresentam os estudos de caso. O código-fonte dos protótipos permanece privado enquanto passa por revisão técnica e de segurança.
+Os repositórios públicos apresentam os estudos de caso e as decisões técnicas. O código-fonte dos projetos permanece privado.
 
 ## Interesses
 
 Aplicações com IA generativa, experiências multimodais e integração de modelos em produtos web.
-
-## Contato
-
-Entre em contato pelo GitHub para conversar sobre oportunidades e projetos.
