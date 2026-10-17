@@ -1,16 +1,22 @@
-# Olá! Desenvolvo aplicações com IA
+# Olá! Desenvolvo aplicações web com IA
 
-Meu foco é integrar IA generativa a aplicações web para resolver problemas concretos. Tenho explorado fluxos de IA, análise multimodal e a integração entre modelos, interfaces e serviços em nuvem.
+Meu foco é integrar IA generativa a produtos digitais para resolver problemas concretos. Gosto de transformar uma necessidade em uma experiência clara, conectando interface, modelos e serviços em nuvem.
 
-## Projeto em destaque
+## Projetos em destaque
+
+### [MotoAI Assist — diagnóstico de motocicletas com IA](https://github.com/sandrocabelleira1/motoai-assist-case-study)
+
+Protótipo que organiza marca, modelo e sintomas para apresentar causas prováveis, passos de verificação e ferramentas sugeridas. Também explora um assistente conversacional e a busca de oficinas próximas.
+
+**Tecnologias:** Next.js, React, TypeScript, Genkit, Gemini 2.0 Flash e Zod.
 
 ### [Xtreme Dr. X — assistente de instalação com IA](https://github.com/sandrocabelleira1/xtremeDr.X)
 
-Estudo de caso de um assistente para instalação e diagnóstico do Quickshifter Xtreme. O projeto combina chat com IA e análise de fotos e vídeos com uma aplicação web, autenticação, persistência de dados e pagamentos.
+Estudo de caso de um assistente para instalação e diagnóstico do Quickshifter Xtreme, com chat, análise de fotos e vídeos e integração com serviços de produto.
 
-**Tecnologias:** Next.js, React, TypeScript, Genkit, Gemini, Firebase Auth, Firestore e Stripe.
+**Tecnologias:** Next.js, React, TypeScript, Genkit, Gemini, Firebase e Stripe.
 
-**No projeto:** fluxos de IA com entradas estruturadas, análise multimodal, autenticação de usuários, persistência de dados e integração de pagamentos.
+> Os repositórios públicos apresentam os estudos de caso. O código-fonte dos protótipos permanece privado enquanto passa por revisão técnica e de segurança.
 
 ## Interesses
 
