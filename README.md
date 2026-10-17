@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Desenvolvo aplicações com IA
 
-<!--
-**sandrocabelleira1/sandrocabelleira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu foco é integrar IA generativa a aplicações web para resolver problemas concretos. Tenho explorado fluxos de IA, análise multimodal e a integração entre modelos, interfaces e serviços em nuvem.
 
-Here are some ideas to get you started:
+## Projeto em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Xtreme Dr. X — assistente de instalação com IA](https://github.com/sandrocabelleira1/xtremeDr.X)
+
+Estudo de caso de um assistente para instalação e diagnóstico do Quickshifter Xtreme. O projeto combina chat com IA e análise de fotos e vídeos com uma aplicação web, autenticação, persistência de dados e pagamentos.
+
+**Tecnologias:** Next.js, React, TypeScript, Genkit, Gemini, Firebase Auth, Firestore e Stripe.
+
+**No projeto:** fluxos de IA com entradas estruturadas, análise multimodal, autenticação de usuários, persistência de dados e integração de pagamentos.
+
+## Interesses
+
+Aplicações com IA generativa, experiências multimodais e integração de modelos em produtos web.
+
+## Contato
+
+Entre em contato pelo GitHub para conversar sobre oportunidades e projetos.
