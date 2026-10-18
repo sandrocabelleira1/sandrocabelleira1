@@ -40,6 +40,10 @@ Protótipo que organiza marca, modelo e sintomas para apresentar causas prováve
 
 Os repositórios públicos apresentam os estudos de caso e as decisões técnicas. O código-fonte dos projetos permanece privado.
 
+## Formação AWS
+
+- **AWS Technical Essentials (Português)** — concluído em 17/10/2026. Certificado de conclusão de treinamento: [visualizar certificado em PDF](certificates/AWS-Technical-Essentials-2026.pdf). [Validar no AWS Skill Builder](https://skillbuilder.aws/learn/K8C2FNZM6X/aws-technical-essentials-portugus/3HVMQNBXYA)
+
 ## Interesses
 
 Aplicações com IA generativa, experiências multimodais e integração de modelos em produtos web.
