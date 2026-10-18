@@ -2,9 +2,7 @@
 
 ## Desenvolvimento de aplicações web com IA
 
-Meu foco é transformar necessidades concretas em aplicações web com IA generativa. Nos meus projetos, conecto interface, modelos de IA e serviços em nuvem, com atenção ao fluxo completo de uso do produto.
-
-Busco oportunidades em desenvolvimento web e aplicações com IA.
+Desenvolvo aplicações web que conectam IA generativa, interfaces intuitivas e serviços em nuvem. Gosto de transformar necessidades concretas em experiências úteis, acompanhando o produto da ideia à implantação.
 
 ## Projetos em destaque
 
