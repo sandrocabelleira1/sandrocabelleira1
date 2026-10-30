@@ -4,6 +4,15 @@ Desenvolvedor de aplicações web com foco em IA generativa, produtos digitais e
 
 ## Projetos em destaque
 
+### [Custo Certo — gestão de custos e operações para restaurantes](https://github.com/sandrocabelleira1/custo-certo)
+
+Protótipo web para organizar compras, despesas, estoque, receitas e CMV em operações de alimentação. O código inclui módulos para múltiplas unidades, produção, checklists, relatórios e fluxos assistidos por IA.
+
+- **Tecnologias:** Next.js 15, React, TypeScript, Tailwind CSS, Firebase Authentication, Cloud Firestore, Firebase Storage, Firebase App Hosting e Genkit com Google AI.
+- **Engenharia:** regras Firestore organizadas por papéis e unidade; fluxos de IA para análises financeiras, receitas, checklists, manuais e projeções de vendas.
+- **Status:** em desenvolvimento. O código e as regras versionadas ainda precisam de validação completa antes de uso em produção.
+- **Código:** [repositório público](https://github.com/sandrocabelleira1/custo-certo).
+
 ### [TuneAssist — análise e edição de mapas ECU](https://github.com/sandrocabelleira1/TuneAssist)
 
 Aplicação web para apoiar a análise de calibrações a partir de arquivos BIN, definições XDF e dados de ensaio. O fluxo permite interpretar mapas e eixos, comparar parâmetros, revisar ajustes calculados e exportar um arquivo modificado.
@@ -41,4 +50,3 @@ TypeScript · React · Next.js · Gemini · Genkit · Firebase · Firestore · F
 ## Formação AWS
 
 - **AWS Technical Essentials (Português)** — treinamento concluído em 17/10/2026. [Certificado de conclusão (PDF)](certificates/AWS-Technical-Essentials-2026.pdf) · [AWS Skill Builder](https://skillbuilder.aws/learn/K8C2FNZM6X/aws-technical-essentials-portugus/3HVMQNBXYA)
-
