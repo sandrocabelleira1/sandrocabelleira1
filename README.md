@@ -50,3 +50,13 @@ TypeScript · React · Next.js · Gemini · Genkit · Firebase · Firestore · F
 ## Formação AWS
 
 - **AWS Technical Essentials (Português)** — treinamento concluído em 17/10/2026. [Certificado de conclusão (PDF)](certificates/AWS-Technical-Essentials-2026.pdf) · [AWS Skill Builder](https://skillbuilder.aws/learn/K8C2FNZM6X/aws-technical-essentials-portugus/3HVMQNBXYA)
+
+## Documentação operacional e padronização
+
+Desenvolvi e organizei materiais de operação para apoiar a padronização de rotinas e o treinamento de equipes da Bruxas Burger. O conjunto inclui manual de operação de franquia, POPs, checklists, registros e material visual de apoio.
+
+- **Escopo:** higienização, controle de pragas, recebimento, manejo de resíduos, preparo de hortifruti, abertura e fechamento de unidade, controle de temperatura, produção e estoque.
+- **Competências:** redação de procedimentos, padronização de processos, controle operacional e comunicação visual.
+- **Case:** [documentação operacional e padronização — Bruxas Burger](bruxas-burger-documentacao-operacional.md).
+
+Os documentos originais permanecem privados; a página de case apresenta um resumo sem expor o conteúdo operacional interno.
