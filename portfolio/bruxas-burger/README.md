@@ -1,16 +1,12 @@
 # Materiais de documentação operacional — Bruxas Burger
 
-Este acervo reúne materiais apresentados como parte do trabalho de documentação, padronização de rotinas e treinamento operacional. Inclui manuais, Instruções de Trabalho, POPs, checklists, registros, planilhas e peças visuais.
+Acervo de materiais apresentados como parte do trabalho de documentação, padronização de rotinas e treinamento operacional. Inclui manuais, Instruções de Trabalho, POPs, checklists, registros, planilhas e peças visuais.
 
-> **Nota:** os arquivos são publicados para portfólio e demonstração de trabalho. Os formulários e planilhas são modelos em branco; não há registros de funcionários. Os documentos mantêm os créditos profissionais que constam nos originais. O Caderno de Especificações inclui fichas técnicas e medidas de preparo.
+> Os formulários e planilhas são modelos em branco, sem registros de funcionários. Os documentos preservam os créditos profissionais presentes nos originais. A cópia pública do Manual de Boas Práticas substitui três páginas que continham identificação da empresa, contatos e informação interna.
 
-Os arquivos são mantidos em seus formatos recebidos, para download. O Caderno de Especificações foi dividido em partes PDF para caber no limite de tamanho por arquivo do GitHub.
+Os arquivos estão disponíveis para consulta e download. O Caderno de Especificações foi dividido em partes PDF para caber no limite por arquivo do GitHub.
 
-O Caderno de Especificações foi dividido em partes PDF para caber no limite de tamanho por arquivo do GitHub; baixe todas as partes para consultar o material completo.
-
-### Caderno de Especificações (partes)
-
-Baixe todas as partes para consultar o material completo.
+## Caderno de Especificações — partes do documento completo
 
 - [Parte 01.pdf](01-manuais/Caderno-de-Especificacoes-Parte-01.pdf)
 - [Parte 02.pdf](01-manuais/Caderno-de-Especificacoes-Parte-02.pdf)
@@ -26,20 +22,9 @@ Baixe todas as partes para consultar o material completo.
 
 ## Manuais e instruções
 
-### Caderno de Especificações (partes)
-
-- [Parte 01.pdf](01-manuais/Caderno-de-Especificacoes-Parte-01.pdf)
-- [Parte 02.pdf](01-manuais/Caderno-de-Especificacoes-Parte-02.pdf)
-- [Parte 03.pdf](01-manuais/Caderno-de-Especificacoes-Parte-03.pdf)
-- [Parte 04.pdf](01-manuais/Caderno-de-Especificacoes-Parte-04.pdf)
-- [Parte 05.pdf](01-manuais/Caderno-de-Especificacoes-Parte-05.pdf)
-- [Parte 06.pdf](01-manuais/Caderno-de-Especificacoes-Parte-06.pdf)
-- [Parte 07.pdf](01-manuais/Caderno-de-Especificacoes-Parte-07.pdf)
-- [Parte 08.pdf](01-manuais/Caderno-de-Especificacoes-Parte-08.pdf)
-
-
 - [Criterios-de-Armazenamento-de-Alimentos.docx](01-manuais/Criterios-de-Armazenamento-de-Alimentos.docx)
 - [Instrucoes-de-Trabalho.pdf](01-manuais/Instrucoes-de-Trabalho.pdf)
+- [Manual-de-Boas-Praticas-de-Manipulacao-publico.pdf](01-manuais/Manual-de-Boas-Praticas-de-Manipulacao-publico.pdf) — cópia pública com três páginas redigidas
 - [Manual-de-Boas-Praticas.docx](01-manuais/Manual-de-Boas-Praticas.docx)
 - [Manual-de-Marketing-e-Vendas.docx](01-manuais/Manual-de-Marketing-e-Vendas.docx)
 - [Manual-de-Operacao-da-Franquia-1.0.docx](01-manuais/Manual-de-Operacao-da-Franquia-1.0.docx)
@@ -80,13 +65,13 @@ Baixe todas as partes para consultar o material completo.
 - [Checklist-de-Recebimento.docx](03-checklists-registros/Checklist-de-Recebimento.docx)
 - [Controle-de-Saida-de-Estoque.docx](03-checklists-registros/Controle-de-Saida-de-Estoque.docx)
 - [Ficha-de-Solicitacao-de-Emprego.docx](03-checklists-registros/Ficha-de-Solicitacao-de-Emprego.docx)
-- [Registro-de-Higiene-Pessoal.docx](03-checklists-registros/Registro-de-Higiene-Pessoal.docx)
-- [Registro-de-Producao.docx](03-checklists-registros/Registro-de-Producao.docx)
 - [Registro-Higienizacao-Potabilidade-Agua.docx](03-checklists-registros/Registro-Higienizacao-Potabilidade-Agua.docx)
 - [Registro-Ocorrencias-Pragas.docx](03-checklists-registros/Registro-Ocorrencias-Pragas.docx)
 - [Registro-Saida-de-Estoque.docx](03-checklists-registros/Registro-Saida-de-Estoque.docx)
 - [Registro-Temperatura-Equipamentos-e-Produtos.docx](03-checklists-registros/Registro-Temperatura-Equipamentos-e-Produtos.docx)
 - [Registro-Temperatura-Freezer-Refrigeradores.docx](03-checklists-registros/Registro-Temperatura-Freezer-Refrigeradores.docx)
+- [Registro-de-Higiene-Pessoal.docx](03-checklists-registros/Registro-de-Higiene-Pessoal.docx)
+- [Registro-de-Producao.docx](03-checklists-registros/Registro-de-Producao.docx)
 - [Tabela-Uso-Sumaveg.docx](03-checklists-registros/Tabela-Uso-Sumaveg.docx)
 - [Termo-de-Responsabilidade.docx](03-checklists-registros/Termo-de-Responsabilidade.docx)
 
