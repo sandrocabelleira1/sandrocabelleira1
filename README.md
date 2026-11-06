@@ -53,9 +53,9 @@ TypeScript · React · Next.js · Gemini · Genkit · Firebase · Firestore · F
 
 ## Documentação operacional e padronização
 
-Desenvolvi e organizei materiais de operação para apoiar a padronização de rotinas e o treinamento de equipes da Bruxas Burger. O conjunto inclui manual de operação de franquia, caderno de especificações, POPs, checklists, registros e placas visuais sobre organização, higiene e segurança.
+Desenvolvi e organizei materiais de operação para apoiar a padronização de rotinas e o treinamento de equipes da Bruxas Burger. O conjunto inclui manual de operação de franquia, caderno de especificações, Instruções de Trabalho (ITs), POPs, checklists, registros e placas visuais sobre organização, higiene e segurança.
 
-- **Escopo:** fichas técnicas de produtos, preparo, utensílios e embalagens; higienização, controle de pragas, recebimento, manejo de resíduos, preparo de hortifruti, abertura e fechamento, temperaturas, produção e estoque.
+- **Escopo:** fichas técnicas e preparo; higiene de manipuladores; recebimento de matérias-primas; resfriamento, descongelamento e controle de temperatura; higienização, estoque, produção e registros.
 - **Competências:** redação de procedimentos, padronização de processos, controle operacional, treinamento e comunicação visual.
 - **Case e galeria:** [documentação operacional e placas de orientação — Bruxas Burger](bruxas-burger-documentacao-operacional.md).
 
