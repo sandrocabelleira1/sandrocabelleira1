@@ -51,7 +51,7 @@ Padronização de processos · Redação de procedimentos e manuais · Operaçõ
 
 ## Acervo de materiais
 
-Os [materiais de documentação operacional](portfolio/bruxas-burger/README.md) estão disponíveis para consulta e download, incluindo manuais, caderno de especificações, Instruções de Trabalho, POPs, checklists, registros e planilhas. Os formulários e planilhas são modelos em branco, sem dados preenchidos de funcionários. Os documentos preservam os créditos profissionais presentes nos originais.
+Os [materiais de documentação operacional](portfolio/bruxas-burger/README.md) estão disponíveis para consulta e download, incluindo manuais, o caderno de especificações (dividido em partes PDF), Instruções de Trabalho, POPs, checklists, registros e planilhas. Os formulários e planilhas são modelos em branco, sem dados preenchidos de funcionários. Os documentos preservam os créditos profissionais presentes nos originais.
 
 ---
 

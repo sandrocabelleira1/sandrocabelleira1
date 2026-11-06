@@ -60,4 +60,4 @@ Desenvolvi e organizei materiais de operação para apoiar a padronização de r
 - **Acervo público:** [manuais, ITs, POPs, checklists, planilhas e peças visuais](portfolio/bruxas-burger/README.md).
 - **Case e galeria:** [documentação operacional e placas de orientação — Bruxas Burger](bruxas-burger-documentacao-operacional.md).
 
-Os arquivos estão publicados nos formatos recebidos. Formulários e planilhas são modelos em branco; o acervo preserva os créditos profissionais existentes.
+Os arquivos estão publicados para consulta e download. O Caderno de Especificações está dividido em partes PDF para permitir o envio ao GitHub. Formulários e planilhas são modelos em branco; o acervo preserva os créditos profissionais existentes.

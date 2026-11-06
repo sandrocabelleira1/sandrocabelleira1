@@ -4,11 +4,39 @@ Este acervo reúne materiais apresentados como parte do trabalho de documentaç�
 
 > **Nota:** os arquivos são publicados para portfólio e demonstração de trabalho. Os formulários e planilhas são modelos em branco; não há registros de funcionários. Os documentos mantêm os créditos profissionais que constam nos originais. O Caderno de Especificações inclui fichas técnicas e medidas de preparo.
 
-Os arquivos são mantidos em seus formatos recebidos, para download.
+Os arquivos são mantidos em seus formatos recebidos, para download. O Caderno de Especificações foi dividido em partes PDF para caber no limite de tamanho por arquivo do GitHub.
 
-**Pendente:** o Caderno de Especificações original (45,7 MB) excede o limite de envio disponível nesta sessão e ainda não foi publicado.
+O Caderno de Especificações foi dividido em partes PDF para caber no limite de tamanho por arquivo do GitHub; baixe todas as partes para consultar o material completo.
+
+### Caderno de Especificações (partes)
+
+Baixe todas as partes para consultar o material completo.
+
+- [Parte 01.pdf](01-manuais/Caderno-de-Especificacoes-Parte-01.pdf)
+- [Parte 02.pdf](01-manuais/Caderno-de-Especificacoes-Parte-02.pdf)
+- [Parte 03.pdf](01-manuais/Caderno-de-Especificacoes-Parte-03.pdf)
+- [Parte 04.pdf](01-manuais/Caderno-de-Especificacoes-Parte-04.pdf)
+- [Parte 05.pdf](01-manuais/Caderno-de-Especificacoes-Parte-05.pdf)
+- [Parte 06.pdf](01-manuais/Caderno-de-Especificacoes-Parte-06.pdf)
+- [Parte 07.pdf](01-manuais/Caderno-de-Especificacoes-Parte-07.pdf)
+- [Parte 08.pdf](01-manuais/Caderno-de-Especificacoes-Parte-08.pdf)
+- [Parte 09.pdf](01-manuais/Caderno-de-Especificacoes-Parte-09.pdf)
+- [Parte 10.pdf](01-manuais/Caderno-de-Especificacoes-Parte-10.pdf)
+- [Parte 11.pdf](01-manuais/Caderno-de-Especificacoes-Parte-11.pdf)
 
 ## Manuais e instruções
+
+### Caderno de Especificações (partes)
+
+- [Parte 01.pdf](01-manuais/Caderno-de-Especificacoes-Parte-01.pdf)
+- [Parte 02.pdf](01-manuais/Caderno-de-Especificacoes-Parte-02.pdf)
+- [Parte 03.pdf](01-manuais/Caderno-de-Especificacoes-Parte-03.pdf)
+- [Parte 04.pdf](01-manuais/Caderno-de-Especificacoes-Parte-04.pdf)
+- [Parte 05.pdf](01-manuais/Caderno-de-Especificacoes-Parte-05.pdf)
+- [Parte 06.pdf](01-manuais/Caderno-de-Especificacoes-Parte-06.pdf)
+- [Parte 07.pdf](01-manuais/Caderno-de-Especificacoes-Parte-07.pdf)
+- [Parte 08.pdf](01-manuais/Caderno-de-Especificacoes-Parte-08.pdf)
+
 
 - [Criterios-de-Armazenamento-de-Alimentos.docx](01-manuais/Criterios-de-Armazenamento-de-Alimentos.docx)
 - [Instrucoes-de-Trabalho.pdf](01-manuais/Instrucoes-de-Trabalho.pdf)
