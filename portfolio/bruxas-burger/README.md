@@ -78,3 +78,7 @@ Os arquivos estão disponíveis para consulta e download. O Caderno de Especific
 ## Comunicação visual
 
 - [Procedimento-de-Higienizacao-das-Maos.png](04-comunicacao-visual/Procedimento-de-Higienizacao-das-Maos.png)
+
+## Artes gráficas — CorelDRAW
+
+- [Galeria de artes gráficas para a rede Bruxas Burger](05-artes-graficas-coreldraw/README.md) — embalagens, bandeja e cardápio.
