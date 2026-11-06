@@ -49,9 +49,9 @@ O trabalho reuniu procedimentos operacionais, instruções de trabalho, manuais,
 
 Padronização de processos · Redação de procedimentos e manuais · Operações de alimentação · Controle de qualidade · Checklists e registros operacionais · Treinamento de equipes · Comunicação visual
 
-## Observação sobre os materiais
+## Acervo de materiais
 
-Esta página apresenta um resumo de portfólio e uma seleção de placas visuais. O caderno de especificações, as Instruções de Trabalho, os POPs, o manual completo, os checklists e os registros operacionais não estão publicados; eles contêm receitas, medidas e outros detalhes internos da operação. O case não inclui formulários preenchidos nem dados comerciais.
+Os [materiais de documentação operacional](portfolio/bruxas-burger/README.md) estão disponíveis para consulta e download, incluindo manuais, caderno de especificações, Instruções de Trabalho, POPs, checklists, registros e planilhas. Os formulários e planilhas são modelos em branco, sem dados preenchidos de funcionários. Os documentos preservam os créditos profissionais presentes nos originais.
 
 ---
 

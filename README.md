@@ -57,6 +57,7 @@ Desenvolvi e organizei materiais de operação para apoiar a padronização de r
 
 - **Escopo:** fichas técnicas e preparo; higiene de manipuladores; recebimento de matérias-primas; resfriamento, descongelamento e controle de temperatura; higienização, estoque, produção e registros.
 - **Competências:** redação de procedimentos, padronização de processos, controle operacional, treinamento e comunicação visual.
+- **Acervo público:** [manuais, ITs, POPs, checklists, planilhas e peças visuais](portfolio/bruxas-burger/README.md).
 - **Case e galeria:** [documentação operacional e placas de orientação — Bruxas Burger](bruxas-burger-documentacao-operacional.md).
 
-Os documentos operacionais completos permanecem privados; a página do case apresenta um resumo e uma seleção de placas visuais.
+Os arquivos estão publicados nos formatos recebidos. Formulários e planilhas são modelos em branco; o acervo preserva os créditos profissionais existentes.
