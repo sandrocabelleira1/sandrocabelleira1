@@ -51,13 +51,27 @@ TypeScript · React · Next.js · Gemini · Genkit · Firebase · Firestore · F
 
 - **AWS Technical Essentials (Português)** — treinamento concluído em 17/10/2026. [Certificado de conclusão (PDF)](certificates/AWS-Technical-Essentials-2026.pdf) · [AWS Skill Builder](https://skillbuilder.aws/learn/K8C2FNZM6X/aws-technical-essentials-portugus/3HVMQNBXYA)
 
-## Documentação operacional e padronização
+## Liderança operacional, qualidade e documentação — Bruxas Burger
 
-Desenvolvi e organizei materiais de operação para apoiar a padronização de rotinas e o treinamento de equipes da Bruxas Burger. O conjunto inclui manual de operação de franquia, caderno de especificações, Instruções de Trabalho (ITs), POPs, checklists, registros e placas visuais sobre organização, higiene e segurança.
+Desde março de 2020, atuo como Chef de Cozinha e líder operacional na Bruxas Burger. Minha experiência combina gestão da rotina de cozinha com treinamento, qualidade, produção e padronização. Também contribuí para a implantação e organização de novas unidades da rede.
 
-- **Escopo:** fichas técnicas e preparo; higiene de manipuladores; recebimento de matérias-primas; resfriamento, descongelamento e controle de temperatura; higienização, estoque, produção e registros.
-- **Competências:** redação de procedimentos, padronização de processos, controle operacional, treinamento e comunicação visual.
-- **Acervo público:** [manuais, ITs, POPs, checklists, planilhas e peças visuais](portfolio/bruxas-burger/README.md).
-- **Case e galeria:** [documentação operacional e placas de orientação — Bruxas Burger](bruxas-burger-documentacao-operacional.md).
+### Competências demonstradas neste trabalho
 
-Os arquivos estão publicados para consulta e download. O Caderno de Especificações está dividido em partes PDF para permitir o envio ao GitHub. Formulários e planilhas são modelos em branco; o acervo preserva os créditos profissionais existentes.
+- **Padronização de processos:** transformar rotinas operacionais em procedimentos claros, consistentes e utilizáveis pelas equipes.
+- **Criação de manuais e POPs:** estruturar instruções, responsabilidades, frequência, controles e registros para apoiar a execução diária.
+- **Treinamento de equipes:** preparar materiais de apoio para orientar colaboradores e reforçar práticas operacionais.
+- **Qualidade e segurança dos alimentos:** documentar rotinas de higiene, recebimento, armazenamento, produção, temperaturas, resfriamento, controle de pragas e manejo de resíduos.
+- **Controle operacional:** desenvolver checklists, formulários e planilhas para acompanhar atividades e registrar verificações.
+- **Comunicação visual e design:** criar placas de orientação, peças de embalagem, papel de bandeja e materiais de cardápio no CorelDRAW.
+
+### Materiais que desenvolvi e organizei
+
+- Manual de Operação da Franquia e Manual de Boas Práticas.
+- Caderno de Especificações, publicado em 11 partes para consulta.
+- Instruções de Trabalho (ITs) e POPs de higiene, saúde dos manipuladores, recebimento de mercadorias, resíduos, hortifrúti, abertura e fechamento, temperaturas e outros processos.
+- Checklists, registros e planilhas de apoio — incluindo os anexos numerados de 17 a 31.
+- Materiais visuais de orientação e artes gráficas para embalagens e cardápios.
+
+**Portfólio:** [acervo de manuais, ITs, POPs, formulários e materiais visuais](portfolio/bruxas-burger/README.md) · [galeria de artes gráficas criadas no CorelDRAW](portfolio/bruxas-burger/05-artes-graficas-coreldraw/README.md) · [case de documentação operacional](bruxas-burger-documentacao-operacional.md).
+
+Os documentos foram preparados para consulta, execução e treinamento. A cópia pública do Manual de Boas Práticas substitui três páginas que continham dados cadastrais, contatos e informação interna. O arquivo-fonte da frente do cardápio está representado na galeria por uma prévia; o GitHub rejeitou o envio direto do CDR de aproximadamente 77 MB.
